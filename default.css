@@ -1,0 +1,28 @@
+.bgded {
+	background-image:url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4cc95e3e-4d8a-4bf8-99c8-6166084d56ec/d99ey1q-e8cc1684-ceea-492a-b876-50ffc71201b2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNGNjOTVlM2UtNGQ4YS00YmY4LTk5YzgtNjE2NjA4NGQ1NmVjXC9kOTlleTFxLWU4Y2MxNjg0LWNlZWEtNDkyYS1iODc2LTUwZmZjNzEyMDFiMi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.07Om7hdDHzQoIJ5bpnA1lNPABWPfDSOM3lSPRaOeKi8');
+}
+
+.drop {
+	opacity: 100%;
+}
+
+.btn {
+	color: lightsalmon;
+}
+
+.heading {
+	color: darkorange;
+}
+
+.container {
+	border-radius: 10px;
+	border: 3px;
+	border-style: solid;
+	border-color: black;
+	padding: 70px;
+	margin-top: 20px;
+}
+
+.formx {
+	background-image:url("https://lh3.googleusercontent.com/proxy/Awhyr7MUqwRQV00syHlbC3t83M1epQWfPfb1CD2_TBAwI1K7f-u5KYWK5UH5p4sW0HbYYAhUpQOxf-6uJtfvDfpLemjb1ZQjGd-3BN3mp6I");
+}
