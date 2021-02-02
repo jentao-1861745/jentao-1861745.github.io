@@ -24,5 +24,7 @@
 }
 
 .formx {
-	background-image:url("https://lh3.googleusercontent.com/proxy/Awhyr7MUqwRQV00syHlbC3t83M1epQWfPfb1CD2_TBAwI1K7f-u5KYWK5UH5p4sW0HbYYAhUpQOxf-6uJtfvDfpLemjb1ZQjGd-3BN3mp6I");
+	border-style: solid;
+	border-color: brown;
+	border: 3px;
 }
